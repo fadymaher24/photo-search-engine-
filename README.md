@@ -1,1 +1,3 @@
 # photo-search-engine-
+The system we plan to design is a photo search engine that depends on speech and image recognition and these two processes use Deep Neural networks.
+We start by saying a word that we want to Look for, so the speech recognition process converts it into a text using Deep Neural Network that identify the phonemes of the speech and turn it into text. After that the system look for the word in a database that consists of many photos and that is when the image recognition process happens to connect the photo with the required word also using Deep Neural Networks and finally shows it to the user.
